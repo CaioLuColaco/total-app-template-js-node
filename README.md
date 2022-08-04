@@ -2,7 +2,7 @@
 ## Descrição
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=Python&message=3.9.5&color=7159c1&style=for-the-badge&logo=Python"/>
+  <img src="https://img.shields.io/static/v1?label=TECNOLOGIEXAMPLE&message=3.9.5&color=7159c1&style=for-the-badge&logo=TECNOLOGIEXAMPLE"/>
 </div>
 
 <h3 align="center"> 
